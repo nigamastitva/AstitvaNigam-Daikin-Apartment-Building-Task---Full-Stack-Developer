@@ -1,0 +1,7 @@
+/home/astitva/Building_Management_System/Building_temperature_control_system/Backend/src/main/java/com/buildingcontrol/model/Apartment.java
+/home/astitva/Building_Management_System/Building_temperature_control_system/Backend/src/main/java/com/buildingcontrol/model/Building.java
+/home/astitva/Building_Management_System/Building_temperature_control_system/Backend/src/main/java/com/buildingcontrol/BuildingControlApplication.java
+/home/astitva/Building_Management_System/Building_temperature_control_system/Backend/src/main/java/com/buildingcontrol/model/CommonRoom.java
+/home/astitva/Building_Management_System/Building_temperature_control_system/Backend/src/main/java/com/buildingcontrol/controller/BuildingController.java
+/home/astitva/Building_Management_System/Building_temperature_control_system/Backend/src/main/java/com/buildingcontrol/model/Room.java
+/home/astitva/Building_Management_System/Building_temperature_control_system/Backend/src/main/java/com/buildingcontrol/config/CorsConfig.java

@@ -1,0 +1,8 @@
+com/buildingcontrol/model/CommonRoom$CommonRoomType.class
+com/buildingcontrol/model/Room.class
+com/buildingcontrol/model/Apartment.class
+com/buildingcontrol/config/CorsConfig.class
+com/buildingcontrol/model/Building.class
+com/buildingcontrol/BuildingControlApplication.class
+com/buildingcontrol/controller/BuildingController.class
+com/buildingcontrol/model/CommonRoom.class
